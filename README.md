@@ -4,18 +4,8 @@
 
 ## 📖 About me
 
-* 💻 I'm a developer
+* 💻 I enjoy coding
 * 🎨 I'm a self-taught developer
-
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/Niteletsplay/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niteletsplay#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Niteletsplay?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 📘 My top open source projects
 
@@ -57,7 +47,6 @@
 </p>
 
 ## 👨‍💻 Languages and Tools:
-
 <table>
     <tbody>
         <tr>
@@ -92,21 +81,4 @@
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
         </tr>
     </tbody>
-</table>
-
-## 📈 Github Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Niteletsplay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Niteletsplay&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Niteletsplay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteletsplay&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+  </table>
