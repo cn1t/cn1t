@@ -4,7 +4,7 @@
 
 ## 📖 About me
 
-* 💻 I'm coding since 3 years
+* 💻 I have been coding since about 3 years
 * 🎨 I'm a self-taught developer
 
 ## 📘 My top open source projects
