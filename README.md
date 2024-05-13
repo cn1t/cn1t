@@ -29,6 +29,11 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Niteletsplay/FirebaseBlog?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Niteletsplay/FirebaseBlog"><b>AtruviaBankCLI - Java Banking Client (Internship Project)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Niteletsplay/AtruviaBankCLI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Niteletsplay/AtruviaBankCLI?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Niteletsplay/GetRidOfCodespaces"><b>GetRidOfCodespaces - Chrome Extension</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Niteletsplay/GetRidOfCodespaces?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Niteletsplay/GetRidOfCodespaces?style=flat-square&labelColor=343b41"/></td>
@@ -37,11 +42,6 @@
       <td><a href="https://github.com/Niteletsplay/gladosPy"><b>gladosPy Voice Assistant</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Niteletsplay/gladosPy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Niteletsplay/gladosPy?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Niteletsplay/GentleMod"><b>GentleMod - Minecraft Mod</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Niteletsplay/GentleMod?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Niteletsplay/GentleMod?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
