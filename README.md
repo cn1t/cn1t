@@ -2,11 +2,6 @@
 
 <h3 align="center">Hey there, I'm Nite <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-## 📖 About me
-
-* 💻 I have been coding since about 6 years
-* 🎨 I'm a self-taught developer
-
 ## 📘 My top open source projects
 
 <table>
